@@ -1,0 +1,2 @@
+# Streamy
+React-redux project
