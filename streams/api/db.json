@@ -1,0 +1,48 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "hahaha",
+      "id": 1
+    },
+    {
+      "title": "My Stream1",
+      "description": "hahaha1",
+      "id": 2
+    },
+    {
+      "title": "My Stream1",
+      "description": "hahaha1",
+      "id": 3
+    },
+    {
+      "title": "haha3",
+      "description": "hahah3",
+      "id": 4
+    },
+    {
+      "title": "idtest",
+      "description": "test",
+      "userId": "113000089291253243901",
+      "id": 5
+    },
+    {
+      "title": "JUST CHANGED",
+      "description": "haha",
+      "userId": "113000089291253243901",
+      "id": 6
+    },
+    {
+      "title": "programming2",
+      "description": "haha",
+      "userId": "113000089291253243901",
+      "id": 7
+    },
+    {
+      "title": "Reuse",
+      "description": "haha",
+      "userId": "113000089291253243901",
+      "id": 8
+    }
+  ]
+}
